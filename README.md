@@ -4,9 +4,9 @@
 
 1- My name is a secret, you have to guess. Do you think my name is Bob?  
 2- I am living somewhere in the UK. Do I live in Liverpool?  
-3- Do you think I'm a man?
-4- Do you think I like football?
-5- Do you think I play any sport?
+3- Do you think I'm a man?  
+4- Do you think I like football?  
+5- Do you think I play any sport?  
 
 ### Screenshot webpage
 
@@ -40,6 +40,8 @@
 
 ### Screenshot lighthouse #2
 
-![WEB screenshot](images/NewAbout.png)
-
 ![lighthouse](images/NewAbout-LH.png)
+
+### Screenshot webpage
+
+![WEB screenshot](images/NewAbout.png)
