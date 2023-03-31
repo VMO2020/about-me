@@ -21,7 +21,8 @@ const answer3 = document.getElementById('answer3');
 const answer4 = document.getElementById('answer4');
 const answer5 = document.getElementById('answer5');
 
-// Questions
+// ******************************** Questions ******************************************
+
 let question1 = prompt(
 	'My name is a secret, you have to guess. Do you think my name is Bob? ( Please answer either yes/no or y/n )'
 );

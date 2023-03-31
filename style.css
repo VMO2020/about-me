@@ -43,6 +43,18 @@ h2 {
 	margin-top: 1rem;
 }
 
+.button {
+	display: flex;
+}
+
+#quiz-btn {
+	margin: 2rem auto 1rem auto;
+	padding: 0.5rem 2rem;
+	border: 2px solid lightblue;
+	border-radius: 0.5rem;
+	background-color: whitesmoke;
+}
+
 h3 {
 	font-size: clamp(1.2rem, 3vw, 1.8rem);
 	font-weight: 700;
@@ -62,14 +74,29 @@ p.welcome {
 	color: black;
 	font-style: italic;
 }
+
 p.score {
 	font-size: clamp(1rem, 3vw, 1.5rem);
 	text-align: center;
 }
 
+.hero {
+	display: flex;
+	flex-direction: column;
+}
+
+.hero img {
+	width: 100%;
+	margin: 0.1rem auto;
+}
+
+.hero p {
+	text-align: center;
+	font-size: clamp(1rem, 3vw, 1.5rem);
+}
 span#user-name,
 span#user-score {
-	color: blue;
+	/* color: blue; */
 }
 
 .answer {

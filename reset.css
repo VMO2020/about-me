@@ -109,8 +109,6 @@ section {
 
 /* General settings */
 * {
-	margin: 0;
-	padding: 0;
 	box-sizing: border-box;
 }
 
@@ -150,6 +148,7 @@ table {
 }
 
 a {
+	display: inline-block;
 	text-decoration: none;
 	color: inherit;
 }
