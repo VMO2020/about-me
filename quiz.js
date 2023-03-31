@@ -26,6 +26,7 @@ function welcome() {
 // ******************************** Questions ******************************************
 
 function firstQuestions() {
+	// ******************************** Question 1 ******************************************
 	let question1 = prompt(
 		'My name is a secret, you have to guess. Do you think my name is Bob? ( Please answer either yes/no or y/n )'
 	);
