@@ -45,3 +45,9 @@
 ### Screenshot webpage
 
 ![WEB screenshot](images/NewAbout.png)
+
+### Lab Class 04 quiz
+
+[REPO quiz app](<https://github.com/VMO2020/about-me/blob/main/quiz.js>)
+
+[WEB quiz](https://vmo2020.github.io/about-me/)
