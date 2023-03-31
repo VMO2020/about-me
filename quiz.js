@@ -129,8 +129,8 @@ function guessANumber() {
 		let guess = prompt(i + '- Guess a number between 1 and 10');
 		if (guess == number) {
 			alert("Great, you're right!, in just " + i + ' steps');
-			i = 4;
 			score++;
+			break;
 		} else if (guess > number) {
 			alert('To Hight');
 		} else if (guess < number) {
@@ -172,8 +172,8 @@ function guessACity() {
 			alert(
 				`Great!, ${cityToFind} is in my top five list, in just ${i} steps.`
 			);
-			i = 6;
 			score++;
+			break;
 		} else {
 			console.log(`${cityToFind} is not in my top five list.`);
 			alert(`${cityToFind} is not in my top five list.`);
